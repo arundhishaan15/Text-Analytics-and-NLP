@@ -91,10 +91,10 @@ library(tidytext)
 library(stringr)
 
 #to get your consumerKey and consumerSecret see the twitteR documentation for instructions
-consumer_key <- 'dWnRxd7knSfcJ3vACjpCULBIz'
-consumer_secret <- 'LBeHg5v3NbOB7YZ2Dn0hNy5qQpambr3WcZue1UJCMh8f3oBgsK'
-access_token <- '2348166944-YPLBvS3KeMOmAw0GRMYF5Wz10z3vT79Csh3JewP'
-access_secret <- 'uCgpH46o3f6oRdx5ENtGIdXM5NkWJc5WZhz2zC6tcyHnt'
+consumer_key <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+consumer_secret <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_secret <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
